@@ -1,7 +1,6 @@
 {
   "name": "react-boilerplate",
   "version": "0.1.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -12,5 +11,15 @@
   "devDependencies": {
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayontraps/egghead-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayontraps/egghead-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jayontraps/egghead-react-boilerplate#readme",
+  "description": ""
 }
